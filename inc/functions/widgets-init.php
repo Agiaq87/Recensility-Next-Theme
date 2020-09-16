@@ -18,7 +18,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This sidebar is located on the header of the web page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-header-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title">',
+    'before_title' => '<h2 class="recensility-widget-title white">',
     'after_title' => '</h2>'));
 
 register_sidebar(array(
@@ -27,7 +27,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This sidebar is normally located on the left-hand side of web page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-side-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -36,7 +36,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the top of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -45,7 +45,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the top of every page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -54,7 +54,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the center of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -63,7 +63,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the center of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -72,7 +72,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the center of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -81,7 +81,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the center of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -90,7 +90,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the center of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -99,7 +99,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the center of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 
@@ -109,7 +109,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the bottom of homepage.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -118,7 +118,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This widget area is located at the bottom of every page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-main-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -127,7 +127,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This sidebar is located on the left bottom of web page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-footer-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -136,7 +136,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This sidebar is located on the middle bottom of web page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-footer-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -145,7 +145,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This sidebar is located on the middle bottom of web page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-footer-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 register_sidebar(array(
@@ -154,7 +154,7 @@ register_sidebar(array(
     'description' => esc_html__( 'This sidebar is located on the right bottom of web page.', 'recensility' ),
     'before_widget' => '<div id="%1$s" class="recensility-footer-widget widget   %2$s">',
     'after_widget' => '</div>',
-    'before_title' => '<h2 class="recensility-widget-title"><span>',
+    'before_title' => '<h2 class="recensility-widget-title white"><span>',
     'after_title' => '</span></h2>'));
 
 }
