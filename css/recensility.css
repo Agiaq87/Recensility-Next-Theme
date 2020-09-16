@@ -1973,7 +1973,9 @@ Text Domain: Recensility WordPress Theme
         display: table;
         clear: both
     }
-
+    
+    
+    
     .recensility-featured-posts-area .widget {
         margin: 0 0 20px !important;
         overflow: hidden
