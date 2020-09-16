@@ -2001,16 +2001,12 @@ Text Domain: Recensility WordPress Theme
         padding: 5px 0.625em;
         display: inline-block;
         background: #2f6d43;
-        position: relative;
         vertical-align: bottom
     }
     
     .recensility-featured-posts-area .widget .recensility-widget-title span:after {
-        content: '';
-        position: absolute;
         width: 0;
         height: 0;
-        right: -19px;
         bottom: 0;
         border-top: 30px solid transparent;
         border-right: 4px solid transparent;
